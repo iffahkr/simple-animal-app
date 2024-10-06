@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AnimalApp</string>
+
+    <string name="animals_name">Nama Hewan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_name">Iffah Karimah</string>
+    <string name="about_email">iffahkarimaah@gmail.com</string>
+    <string name="source">Source: </string>
+    <string name="link_source1">www.trihugger.com</string>
+    <string name="link_source2">www.farandwide.com</string>
+
+    <string-array name="data_name">
+        <item>Opossum</item>
+        <item>Hippopotamus</item>
+        <item>Wombat</item>
+        <item>Dung Beetle</item>
+        <item>Axolotl</item>
+        <item>Sea Cucumbers</item>
+        <item>Clownfish</item>
+        <item>Superb Lyrebird</item>
+        <item>Wood Frog</item>
+        <item>Reindeer</item>
+        <item>Fish-Scale Gecko</item>
+        <item>Dolphin</item>
+        <item>Shoebill</item>
+        <item>Glass Frog</item>
+        <item>Mantis Shrimp</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Opossum memiliki penampilan seperti tikus, namun eksistensinya tidak sepopuler tikus. Makhluk nokturnal ini sangat spesial. Mereka memiliki toleransi alami terhadap racun ular dan memakan kutu parasit dan hama taman. Opossum memiliki protein serum dalam darahnya yang dapat menetralkan beberapa bentuk racun ular.</item>
+        <item>Hippopotamus atau biasa disebut kuda nil dapat menghasilkan sekresi pada kulitnya yang bertindak sebagai tabir surya alami dan antibiotik. Meskipun cairan berwarna merah yang disekresikan sering disebut "keringat darah", itu tidak ada hubungannya dengan darah. Sebaliknya, ini adalah kombinasi dari dua pigmen: asam hipposudoric dan asam nonhipposudoric. Bahan kimia ini muncul dari kulit kuda nil dalam keringat tidak berwarna tetapi bereaksi dengan udara untuk membentuk lengket kental dan merah yang menghalangi sinar ultraviolet.</item>
+        <item>Ketika kamu melihat wombat  — marsupial kecil yang berwajah ramah dan tenang ini  — kamu mungkin akan segera ingin memeluk hewan lucu ini. api jangan tertipu oleh penampilan: Wombat memiliki gigi seperti hewan pengerat dan bisa menjadi agresif jika mereka merasa terancam. Tidak seperti marsupial lainnya, kantong wombat menghadap ke belakang dan kotoran mereka berbentuk kubus. Hal itu untuk melindungi terowongan tempat mereka tinggal, mereka menyelam ke dalamnya terlebih dahulu dan menjulurkan pantatnya yang cukup tangguh untuk menggagalkan predator.</item>
+        <item>Relatif terhadap ukurannya, dung beetle atau kumbang kotoran adalah hewan terkuat di dunia, mampu menarik 1.141 kali berat badannya. Prestasi kekuatan serangga yang luar biasa ini berhubungan langsung dengan kehidupan seks mereka. Kumbang kotoran betina menggali terowongan yang akan dijelajahi jantan dengan harapan menemukan peluang kawin. Ketika dua jantan menemukan diri mereka di terowongan yang sama, mereka mengunci tanduk dan mencoba mendorong saingan mereka menjauh.</item>
+        <item>Ketika axolotl kehilangan anggota tubuh karena predator yang lapar, pelengkap yang hilang dapat tumbuh kembali dengan tulang, pembuluh darah, dan otot semuanya utuh. Para ilmuwan telah mengisolasi urutan kecil RNA dalam axolotls yang bertanggung jawab atas kemampuan regeneratif ini. Axolotl adalah salamander air yang berasal dari hanya dua danau dekat Mexico City yang disebut Danau Xochimilco dan Danau Chalco. Axolotl sekarang dianggap sangat terancam punah karena hilangnya habitat.</item>
+        <item>Sea cucumber atau timun laut dapat bersembunyi dari pemangsa dengan mencairkan dan memadatkan tubuhnya sesuka hati. Dengan adaptasi yang aneh ini, mereka menuangkan diri ke dalam celah dan celah, kemudian mengamankan diri di tempat persembunyian dengan mendapatkan kembali bentuk kokoh mereka.</item>
+        <item>Clownfish dapat mengubah jenis kelamin dari jantan ke betina untuk memastikan bahwa sekelompok ikan dapat terus bereproduksi. Meskipun ikan badut bukan satu-satunya hewan yang dapat mengubah jenis kelamin, mereka unik karena perilaku ini mengikuti isyarat sosial, daripada ditentukan sebelumnya oleh usia atau ukuran. Jika betina yang berkembang biak mati, pasangan jantannya berubah jenis kelamin dan menggantikannya, sementara jantan lain dalam kelompok dengan cepat bertambah besar dan mengambil alih peran jantan yang berkembang biak.</item>
+        <item>Biasa disebut juga sebagai burung kecapi. Superb lyrebird adalah burung penyanyi Australia besar yang mampu meniru hampir semua yang didengarnya. Di alam liar, mereka kebanyakan meniru burung lain, dan seekor burung lyrebird dapat meniru seluruh kawanan spesies lain. Sementara itu, burung lyrebird penangkaran telah dilaporkan meniru berbagai suara, termasuk alarm mobil, gergaji mesin, daun jendela kamera, dan seruling.</item>
+        <item>Katak kayu memiliki cara aneh untuk berhibernasi selama musim dingin — dengan membeku sampai mati dan hidup kembali di musim semi. Amfibi ini dapat ditemukan sejauh utara Alaska, di mana ia bertahan hidup di musim dingin dengan membeku hingga tujuh bulan berturut-turut. Jantung katak berhenti berdetak dan pernapasannya berhenti.</item>
+        <item>Reindeer atau rusa kutub memiliki mata yang dapat berubah dari coklat menjadi biru untuk meningkatkan penglihatan yang lebih baik selama musim dingin di Arktik yang gelap. Juga dikenal sebagai karibu, rusa ditemukan di hutan boreal di seluruh Amerika Utara dan Eropa, dimana waktu pada siang hari sangat bervariasi sesuai musim. Pada musim panas, mata rusa berwarna coklat dan disesuaikan dengan sinar matahari yang panjang. Sedangkan pada musim dingin, mereka hidup dalam kegelapan. Sehingga, tekanan dimata mereka meningkat, pupil melebar, dan banyak cahaya yang dipantulkan dan mengubah penampilan mata dari coklat menjadi biru.</item>
+        <item>Punggung fish-scale gecko diselimuti sisik besar yang dapat dengan mudah terlepas untuk menghindari pemangsa. Hanya dengan sedikit sentuhan saja, sisik-sisik tersebut bisa terlepas, dan para ilmuwan mengatakan bahwa upaya untuk menangkap spesies tokek tersebut dengan lembut pun bisa menyebabkan sisiknya terlepas. Setelah terlepas, sisik baru akan tumbuh untuk menggantikannya dalam hitungan minggu.</item>
+        <item>Pasti familiar dengan hewan ini, yup Lumba-lumba. Istimewanya lumba-lumba dapat mengeluarkan peluit dan klik yang bernada tinggi dan menggunakan gema yang kembali untuk mengarahkan diri, berburu makanan, dan bahkan menemukan benda-benda di balik dinding atau di bawah dasar laut. Jaringan unik di dahi yang disebut melon membantu lumba-lumba untuk fokus dan mengarahkan suara yang mereka hasilkan saat berekololokasi. Para peneliti percaya bahwa lumba-lumba juga menggunakan vokalisasi mereka untuk berkomunikasi satu sama lain, yang dapat membantu menjelaskan kecerdasan dan perilaku sosial mereka.</item>
+        <item>Mengapa hewan ini bernama "shoe" bill? Hewan yang berasal dari Afrika Timur ini memiliki sepatu yang sangat tinggi, dengan beberapa individu mencapai ketinggian lebih dari 4 kaki. Dan, tidak seperti banyak burung lain yang menghuni lingkungan rawa serupa, paruh sepatu adalah predator yang sangat efektif. Kaki panjang mereka sangat cocok untuk melintasi perairan dangkal, di mana mereka memangsa reptil, hewan pengerat, dan ikan. Mereka bahkan dikenal menyerang buaya muda!</item>
+        <item>Seperti kamu bisa melihat kaca, kamu juga bisa melihat melalui katak kaca. Banyak dari katak ini memiliki kulit hijau limau, tetapi beberapa tidak memiliki warna di bagian bawahnya, membuat organ mereka terlihat dengan mata telanjang. Sama menakjubkannya adalah punggung mereka yang berbintik, yang menurut para ilmuwan dimaksudkan untuk menyerupai telur dan dapat memanipulasi predator.</item>
+        <item>Mantis shrimp adalah hewan kuno, ganas, dan aneh. Berbagai bentuk udang mantis telah ada selama sekitar 400 juta tahun, dan mereka tidak seperti udang lain di sekitarnya. Mereka sangat kuat sehingga pelengkap mereka, yang disebut "pentungan", dapat menghancurkan cangkang kepiting dan menghancurkan kerang yang terbuka. (Beberapa varietas memiliki tombak daripada pentungan, yang sama-sama tangguh.)</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://www.treehugger.com/thmb/afLNe9I-XxoxgDK50fVD2Y1F7L8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__04__opossum-7e59b62143974b66a460148a1f0f0326.jpg</item>
+        <item>https://www.treehugger.com/thmb/oBXLrhmRHbChAnZ2wGYOezyf0h8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hippo-c60a76f3744045a0b42e18eeffe918c5.jpg</item>
+        <item>https://thumbor.bigedition.com/wombat/y-4XpX4IMbk-6J0GgjTx0LDyN5Y=/70x0:1184x835/800x600/filters:format(webp):quality(80)/granite-web-prod/d6/58/d658cf3494614065b51e5d01d6d6e17e.jpeg</item>
+        <item>https://www.treehugger.com/thmb/bYcpEKAQO2KWLrljovQCTfyit4Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__04__dung-beetle-2bffd6644f5940039637478e49c1bb38.jpg</item>
+        <item>https://www.treehugger.com/thmb/f9jwdhdDOOyllB3xOke0e6gpls0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__04__axolotl-3188d78a45414290861dd16815c3eb05.jpg</item>
+        <item>https://www.treehugger.com/thmb/PnlYPOxui9vs8DF6VKlXkaQ5CnA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/seacucumber-479c0908ad5e4fb0873a5720da7b12e8.jpg</item>
+        <item>https://www.treehugger.com/thmb/1qt_uzwPvlOhUjuihr91nmznpgE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__04__clownfish-a4455415a5174b918cd5ed43431368e0.jpg</item>
+        <item>https://www.treehugger.com/thmb/eQTnAzst5m4WUv49Ig4exVARXp8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lyrebird-28bf47808eb448bba6135182059268fe.jpg</item>
+        <item>https://www.treehugger.com/thmb/PSfZtCZn2BSgbc9zywK7yyNjBDU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__04__wood-frog-cb9e7343ceed470998eb03c6384fd156.jpg</item>
+        <item>https://www.treehugger.com/thmb/rHqgT4CR4gvNCUIt81d1lVZlcF8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reindeereye-8d8b57f2546749848dccf1f77cc15082.jpg</item>
+        <item>https://www.treehugger.com/thmb/d6LJXGlL8TkGx68jAPTYlXep1mM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fishscalegecko-a97ae29c8ed24d769c3afe420f636fd8.jpg</item>
+        <item>https://www.treehugger.com/thmb/h517GZvInEO0vpCjugA9LzP7BuE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dolphins-aff1061fa22345319e7fa1878e5945ac.jpg</item>
+        <item>https://thumbor.bigedition.com/shoebill-in-the-wild/qPBY9dRTPkBY7JbMN1Ks_m6ApXs=/69x0:1184x836/800x600/filters:format(webp):quality(80)/granite-web-prod/44/a2/44a21fa908884f28a439761f5aa94b96.jpeg</item>
+        <item>https://thumbor.bigedition.com/cool-animals-glass-frog-organs/lYSTp4YNYNQw80kPwbykK_Amsk4=/800x600/filters:format(webp):quality(80)/granite-web-prod/a3/ef/a3efe2c43aa64739a26e9f80d1afaa22.jpg</item>
+        <item>https://thumbor.bigedition.com/cool-peacock-mantis-shrimp-in-the-pacific-ocean/D-3wK133HNF-RMaSP8YqQyq2vxE=/800x599/filters:format(webp):quality(80)/granite-web-prod/2e/70/2e7010da4c9744a4b92656c09251171d.jpg</item>
+    </string-array>
+</resources>
