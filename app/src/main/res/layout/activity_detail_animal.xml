@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".DetailAnimalActivity">
+    android:layout_gravity="center"
+    tools:context=".DetailAnimalActivity"
+    android:paddingTop="?attr/actionBarSize">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
         android:padding="8dp">
 
         <TextView
@@ -24,6 +24,7 @@
             android:textAlignment="center"
             android:textSize="24sp"
             android:textStyle="bold"
+            android:textColor="@color/green_dark"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -43,15 +44,75 @@
             android:id="@+id/tv_detail_description"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="4dp"
+            android:layout_marginStart="8dp"
             android:layout_marginTop="46dp"
-            android:layout_marginEnd="4dp"
+            android:layout_marginEnd="8dp"
             android:text="@string/description"
-            android:textAlignment="gravity"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="@+id/img_detail_photo"
             app:layout_constraintStart_toStartOf="@+id/img_detail_photo"
             app:layout_constraintTop_toBottomOf="@+id/img_detail_photo" />
+
+        <TextView
+            android:id="@+id/tv_source"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/source"
+            android:textColor="@color/gray"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@+id/tv_detail_description"
+            app:layout_constraintStart_toStartOf="@+id/tv_detail_description"
+            app:layout_constraintTop_toBottomOf="@+id/tv_detail_description" />
+
+        <TextView
+            android:id="@+id/tv_link_source1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/link_source1"
+            android:textColor="@color/gray"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@+id/tv_source"
+            app:layout_constraintStart_toStartOf="@+id/tv_source"
+            app:layout_constraintTop_toBottomOf="@+id/tv_source" />
+
+        <TextView
+            android:id="@+id/tv_link_source2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/link_source2"
+            android:textColor="@color/gray"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="@+id/tv_link_source1"
+            app:layout_constraintEnd_toStartOf="@+id/tv_link_source1"
+            app:layout_constraintStart_toStartOf="@+id/tv_link_source1"
+            app:layout_constraintTop_toBottomOf="@+id/tv_link_source1" />
+
+        <Button
+            android:id="@+id/btn_share"
+            style="@style/Widget.Material3.Button.Icon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="8dp"
+            android:text="@string/share"
+            app:icon="@drawable/share"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/tv_link_source2"
+            app:layout_constraintStart_toStartOf="@+id/tv_link_source2"
+            app:layout_constraintTop_toBottomOf="@+id/tv_link_source2" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

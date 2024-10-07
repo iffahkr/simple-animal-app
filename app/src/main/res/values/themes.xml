@@ -2,8 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AnimalApp" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="colorPrimary">@color/green</item>
     </style>
+
 
     <style name="Theme.AnimalApp" parent="Base.Theme.AnimalApp" />
 </resources>

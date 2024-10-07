@@ -9,6 +9,7 @@
     <string name="source">Source: </string>
     <string name="link_source1">www.trihugger.com</string>
     <string name="link_source2">www.farandwide.com</string>
+    <string name="share">Share</string>
 
     <string-array name="data_name">
         <item>Opossum</item>
